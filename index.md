@@ -1,11 +1,14 @@
 ## Personal Information
 
 Name: Chaoyang Wang (王朝阳)
+
 City: Wuhan, China
+
 E-mail: sunwardtree@hust.edu.cn
 
 ## Education Background
 Huazhong Agricultural University (Bachelor)
+
 Huazhong University of Science and Technology (Master & Ph.D. in Studying)
 
 ## Research Interests
