@@ -2,8 +2,6 @@
 
 Name: Chaoyang Wang (王朝阳)
 
-City: Wuhan, China
-
 E-mail: sunwardtree@hust.edu.cn
 
 ## Education Background
