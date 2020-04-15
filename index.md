@@ -13,7 +13,7 @@ Huazhong University of Science and Technology (Master & Ph.D. in Studying)
 Reinforcement Learning, Recommender System, Generative Adversarial Network, Transfer Learning.
 
 ## Publications
-"A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation" (First Author, Accept by ECAI 2020).
+"A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation" (First Author, Accepted by ECAI 2020).
 
 ## Support or Contact
 
