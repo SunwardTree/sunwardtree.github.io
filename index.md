@@ -4,6 +4,8 @@ Name: Chaoyang Wang (王朝阳)
 
 E-mail: sunwardtree@hust.edu.cn
 
+[Github Link](https://github.com/SunwardTree)
+
 ## Education Background
 Huazhong Agricultural University (Bachelor)
 
