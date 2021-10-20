@@ -17,6 +17,8 @@ Reinforcement Learning, Recommender System, Generative Adversarial Network, Tran
 ## Publications
 "A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation" (First Author, Accepted by ECAI 2020, [arXiv](https://arxiv.org/abs/2004.06651)).
 
+"DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems" (First Author, Accepted by Knowledge-Based Systems 2021 [arXiv](https://arxiv.org/abs/2010.07027)).
+
 "DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems" (Second Author, Accepted by DASFAA 2021).
 
 ## Support or Contact
