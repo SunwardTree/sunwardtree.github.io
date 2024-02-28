@@ -9,7 +9,7 @@ E-mail: sunwardtree@hust.edu.cn
 ## Education Background
 Huazhong Agricultural University (Bachelor)
 
-Huazhong University of Science and Technology (Master & Ph.D. in Studying)
+Huazhong University of Science and Technology (Master & Ph.D.)
 
 ## Research Interests
 Reinforcement Learning, Recommender System, Generative Adversarial Network, Transfer Learning.
