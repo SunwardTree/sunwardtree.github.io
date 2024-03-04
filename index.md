@@ -23,11 +23,9 @@ Reinforcement Learning, Recommender System, Generative Adversarial Network, Tran
 
 4. ``A Text-based Deep Reinforcement Learning Framework using Self-supervised Graph Representation for Interactive Recommendation" (First Author, Accepted by ACM/IMS Transactions on Data Science (TDS), 2022, [ref](https://dl.acm.org/doi/full/10.1145/3522596)).
 
-5. ``A Real-time Parallel Information Processing Method for Signal Sorting" (Corresponding Author, Accepted by DEXA 2023, [ref](https://springer.dosf.top/chapter/10.1007/978-3-031-39847-6_21)).
+5. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.dosf.top/abs/2401.04914)).
 
-6. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.dosf.top/abs/2401.04914)).
-
-7. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.dosf.top/abs/2312.16400)).
+6. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.dosf.top/abs/2312.16400)).
 
 ## Support or Contact
 
