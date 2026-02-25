@@ -29,9 +29,9 @@ Reinforcement Learning, Recommender System, Generative Adversarial Network, Tran
 
 7. ``A Real-time Parallel Information Processing Method for Signal Sorting" (Corresponding Author, Accepted by DEXA 2023, [ref](https://link.springer.com/chapter/10.1007/978-3-031-39847-6_21)).
 
-8. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.dosf.top/abs/2401.04914)).
+8. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.org/abs/2401.04914)).
 
-9. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.dosf.top/abs/2312.16400)).
+9. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.org/abs/2312.16400)).
    
 10. ``Degradation Estimation for Distributed Nonlinear Systems: A PDF-Consensus Particle Filtering Method" (Third Author, Accepted by IEEE Transactions on Network Science and Engineering 2025, [ref](https://ieeexplore.ieee.org/document/10857379/)).
 
