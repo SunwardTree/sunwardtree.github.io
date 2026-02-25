@@ -12,7 +12,7 @@ Huazhong Agricultural University (Bachelor)
 Huazhong University of Science and Technology (Master & Ph.D.)
 
 ## Research Interests
-Reinforcement Learning, Recommender System, Generative Adversarial Network, Transfer Learning.
+Reinforcement Learning, Recommender System, Generative Adversarial Network, Transfer Learning, Sensor Network, Signal Sorting.
 
 ## Publications
 1. ``A Text-based Deep Reinforcement Learning Framework for Interactive Recommendation" (First Author, Accepted by ECAI 2020, [arXiv](https://arxiv.org/abs/2004.06651)).
