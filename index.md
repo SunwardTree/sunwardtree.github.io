@@ -25,7 +25,7 @@ Reinforcement Learning, Recommender System, Generative Adversarial Network, Tran
 
 5. ``Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering" (Second Author, Accepted by DASFAA 2022, [ref](https://doi.org/10.1007/978-3-031-00126-0_12)).
 
-6.``Graph-ICF: Item-based collaborative filtering based on graph neural network"(Fourth Author, Accepted by Knowledge-Based Systems 2022, [ref](https://doi.org/10.1016/j.knosys.2022.109208)).
+6. ``Graph-ICF: Item-based collaborative filtering based on graph neural network"(Fourth Author, Accepted by Knowledge-Based Systems 2022, [ref](https://doi.org/10.1016/j.knosys.2022.109208)).
 
 7. ``A Real-time Parallel Information Processing Method for Signal Sorting" (Corresponding Author, Accepted by DEXA 2023, [ref](https://link.springer.com/chapter/10.1007/978-3-031-39847-6_21)).
 
