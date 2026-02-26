@@ -25,15 +25,17 @@ Reinforcement Learning, Recommender System, Generative Adversarial Network, Tran
 
 5. ``Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering" (Second Author, Accepted by DASFAA 2022, [ref](https://doi.org/10.1007/978-3-031-00126-0_12)).
 
-6. ``Graph-ICF: Item-based collaborative filtering based on graph neural network"(Fourth Author, Accepted by Knowledge-Based Systems 2022, [ref](https://doi.org/10.1016/j.knosys.2022.109208)).
+6. ``MDGCF: Multi-Dependency Graph Collaborative Filtering with Neighborhood- and Homogeneous-level Dependencies" (Fourth Author,  Accepted by CIKM 2022, [ref](https://dl.acm.org/doi/10.1145/3511808.3557390)).
 
-7. ``A Real-time Parallel Information Processing Method for Signal Sorting" (Corresponding Author, Accepted by DEXA 2023, [ref](https://link.springer.com/chapter/10.1007/978-3-031-39847-6_21)).
+7. ``Graph-ICF: Item-based collaborative filtering based on graph neural network"(Fourth Author, Accepted by Knowledge-Based Systems 2022, [ref](https://doi.org/10.1016/j.knosys.2022.109208)).
 
-8. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.org/abs/2401.04914)).
+8. ``A Real-time Parallel Information Processing Method for Signal Sorting" (Corresponding Author, Accepted by DEXA 2023, [ref](https://link.springer.com/chapter/10.1007/978-3-031-39847-6_21)).
 
-9. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.org/abs/2312.16400)).
+9. ``DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation" (Fourth Author, Accepted by SDM 2024, [arXiv](https://arxiv.org/abs/2401.04914)).
+
+10. ``LGMRec: Local and Global Graph Learning for Multimodal Recommendation" (Fourth Author, Accepted by AAAI 2024, [arXiv](https://arxiv.org/abs/2312.16400)).
    
-10. ``Degradation Estimation for Distributed Nonlinear Systems: A PDF-Consensus Particle Filtering Method" (Third Author, Accepted by IEEE Transactions on Network Science and Engineering 2025, [ref](https://ieeexplore.ieee.org/document/10857379/)).
+11. ``Degradation Estimation for Distributed Nonlinear Systems: A PDF-Consensus Particle Filtering Method" (Third Author, Accepted by IEEE Transactions on Network Science and Engineering 2025, [ref](https://ieeexplore.ieee.org/document/10857379/)).
 
 ## Support or Contact
 
